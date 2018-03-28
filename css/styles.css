@@ -1,6 +1,8 @@
 body {
   font-family: 'Arvo', serif;
   font-size: 48px;
+  overflow-x: hidden;
+  width: 100%;
 }
 
 .content {
